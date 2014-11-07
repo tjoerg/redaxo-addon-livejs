@@ -21,7 +21,7 @@ Benutzung
 Autor
 ------------
 
-**Tobias Jörg**
+**Tobias Jörg** GitHu: [tjoerg](https://github.com/tjoerg "GitHub tjoerg")
 
 Zusätzlich
 ------------
