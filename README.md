@@ -21,9 +21,9 @@ Benutzung
 Autor
 ------------
 
-**Tobias Jörg** GitHu: [tjoerg](https://github.com/tjoerg "GitHub tjoerg")
+**Tobias Jörg** GitHub: [tjoerg](https://github.com/tjoerg "GitHub tjoerg")
 
 Zusätzlich
 ------------
 
-[Livejs](http://www.livejs.com/ "Live.js") Copyright (C) 2011 by Martin Kool and Q42
+[Live.js](http://www.livejs.com/ "Live.js") Copyright (C) 2011 by Martin Kool and Q42
