@@ -26,4 +26,4 @@ Autor
 Zusätzlich
 ------------
 
-[Link Livejs](http://www.livejs.com/ "Live.js") Copyright (C) 2011 by Martin Kool and Q42
+[Livejs](http://www.livejs.com/ "Live.js") Copyright (C) 2011 by Martin Kool and Q42
