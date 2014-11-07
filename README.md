@@ -13,7 +13,7 @@ Installation
 2. AddOn installieren und aktivieren
 3. Folgenden Code in den Header des "default"-Templates einfügen: 
 
-<?php if (function_exists('getLivejs')) getLivejs() ?>
+    <?php if (function_exists('getLivejs')) getLivejs() ?>
 
 Benutzung
 ---------
