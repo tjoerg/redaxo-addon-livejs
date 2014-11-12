@@ -1,2 +1,3 @@
 <?php
-	$REX["ADDON"]["install"]["livejs"] = true;
+	$REX['ADDON']['install']['livejs'] = true;
+?>
