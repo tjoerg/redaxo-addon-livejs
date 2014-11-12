@@ -8,7 +8,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<title>DemoSeite</title>
 		<link rel="stylesheet" type="text/css" href="files/style.css" media="screen"/>
-		<?php if (function_exists(\'getLivejs\')) getLivejs() ?>			// Hier wir der Code eingefügt
+		<?php if (function_exists(\'getLivejs\')) getLivejs() ?>
     </head>
     <body>
         <div class="page">
