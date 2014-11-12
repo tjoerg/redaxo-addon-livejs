@@ -11,19 +11,9 @@ Installation
 
 1. Zip-Datei im AddOn-Ordner entpacken, der Ordner muss livejs heißen
 2. AddOn installieren und aktivieren
-3. Folgenden Code in den Header des "default"Templates einfügen: <?php if (function_exists('getLivejs')) getLivejs() ?>
+3. Folgenden Code in den Header des "default"-Templates einfügen: <?php if (function_exists('getLivejs')) getLivejs() ?>
 
 Benutzung
 ---------
 
 * Bei geöffnetem Browserfenster die Quelldatei ändern und abspeichern. Danach wird mit einem automatischem Reload die Website neu geladen.
-
-Autor
-------------
-
-**Tobias Jörg** GitHub: [tjoerg](https://github.com/tjoerg "GitHub tjoerg")
-
-Zusätzlich
-------------
-
-[Live.js](http://www.livejs.com/ "Live.js") Copyright (C) 2011 by Martin Kool and Q42
