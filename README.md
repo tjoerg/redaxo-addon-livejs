@@ -22,7 +22,7 @@ Benutzung
 Autor
 ------------
 
-**Tobias Jörg** GitHub : https://github.com/tjoerg
+**Tobias Jörg** GitHub: https://github.com/tjoerg
 
 Ressourcen
 ------------
