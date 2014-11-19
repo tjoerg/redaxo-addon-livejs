@@ -1,4 +1,4 @@
-<?php	
+<?php
 
 function getLivejs(){
 	if (isset($_SESSION)){
@@ -32,3 +32,5 @@ function getLivejs(){
 		}
 	}		
 }
+
+?>
