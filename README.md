@@ -1,7 +1,7 @@
 REDAXO-AddOn: livejs
 =======================
 
-Version 1.0
+Version 1.1
 
 Dieses AddOn ermöglicht ein automatisiertes Reloaden von Webseiten nach Speicherung der Quelldateien.
 
