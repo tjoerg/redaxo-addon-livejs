@@ -6,7 +6,7 @@
 	$REX['ADDON']['name'][$mypage] = 'Livejs';
 	$REX['ADDON']['perm'][$mypage] = 'livejs[]';
 	$REX['PERM'][] = 'livejs[]';
-	$REX['ADDON']['version'][$mypage] = '1.0';
+	$REX['ADDON']['version'][$mypage] = '1.1';
 	$REX['ADDON']['author'][$mypage] = 'Tobias Jörg';
 
 	require_once $REX['INCLUDE_PATH'].'/addons/'.$mypage.'/functions/function_getlivejs.inc.php';
