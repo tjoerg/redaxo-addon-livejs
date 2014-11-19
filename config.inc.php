@@ -9,4 +9,4 @@
 	$REX['ADDON']['version'][$mypage] = '1.0';
 	$REX['ADDON']['author'][$mypage] = 'Tobias Jörg';
 
-	require $REX['INCLUDE_PATH'].'/addons/'.$mypage.'/functions/function_getlivejs.inc.php';
+	require_once $REX['INCLUDE_PATH'].'/addons/'.$mypage.'/functions/function_getlivejs.inc.php';
