@@ -4,9 +4,9 @@
 	if ($error != '') {
 	    $REX['ADDON']['installmsg']['livejs'] = $error;
 	    $REX['ADDON']['install']['livejs'] = false;
-	    echo '(#002)';
+	    echo '(Report.Nr: #002)';
 	} else {
-		echo '(#001)';
+		echo '(Report.Nr: #001)';
 	    $REX['ADDON']['install']['livejs'] = true;
 	}
 	
