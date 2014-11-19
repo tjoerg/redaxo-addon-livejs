@@ -9,7 +9,7 @@ Dieses AddOn ermöglicht ein automatisiertes Reloaden von Webseiten nach Speiche
 Installation
 ------------
 
-1. Zip-Datei im AddOn-Ordner entpacken, der Ordner muss livejs heißen
+1. Zip-Datei im AddOn-Ordner entpacken, der Ordner muss **livejs** heißen
 2. AddOn installieren und aktivieren
 3. Folgenden Code in den Header des "default"-Templates einfügen:  
 `<?php if (function_exists('getLivejs')) getLivejs() ?>`
