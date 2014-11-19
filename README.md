@@ -29,5 +29,5 @@ Ressourcen
 ------------
 
 **Live.js**  
-*Copyright (C) 2011 by Martin Kool and Q42* [Live.js](http://www.livejs.com/ "Live.js")  
+Copyright (C) 2011 by Martin Kool and Q42 [Live.js](http://www.livejs.com/ "Live.js")  
 [lincese](http://www.livejs.com/license/ "lincese")
