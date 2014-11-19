@@ -18,7 +18,7 @@ Benutzung
 ---------
 
 * Bei geöffnetem Browserfenster die Quelldatei ändern und abspeichern. Danach wird mit einem automatischem Reload die Website neu geladen.
-* 
+
 Includes
 ---------
 
